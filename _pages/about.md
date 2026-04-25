@@ -23,6 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a writer, teacher, and researcher based in LA. My work can be found at *SOLRAD*, *Black Warrior Review*, *smoke & mold*, and *The Comics Journal*; I received my PhD in English at UCLA, where I studied post-1945 literature and visual culture. Currently, I help run the digital magazine *[Nat. Brut](natbrut.org)*, where I also curate artist interviews for the comics section. 
+I'm a writer, editor, and researcher based in LA. My work can be found at *SOLRAD*, *Black Warrior Review*, *smoke & mold*, and *The Comics Journal*. 
+
+I received my Ph.D. in English at UCLA, where I studied post-1945 literature and visual culture. Currently, I help run the digital magazine *[Nat. Brut](natbrut.org)*, where I also curate artist interviews for the comics section. 
 
 If you would like to reach me, email tonyweilingwl at gmail dot com. I would love to hear about your zines.

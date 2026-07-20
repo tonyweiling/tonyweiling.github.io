@@ -1,8 +1,8 @@
 ---
 layout: page
 title: KAYA PRESS
-description: author portraits for Kaya Press
-img: assets/img/Sydney_Van_To.png
+description: author portraits for press website
+img: assets/img/Kaya-Press-1.gif
 importance: 3
 #category: work
 #giscus_comments: false
@@ -13,7 +13,7 @@ These portraits were commissioned by [Kaya Press](https://kaya.com/) for use on 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Warren_Liu.png" title="Warren Liu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Warren_Liu.svg" title="Warren Liu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -22,7 +22,7 @@ These portraits were commissioned by [Kaya Press](https://kaya.com/) for use on 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sydney_Van_To.png" title="Sydney Van To" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sydney_Van_To.svg" title="Sydney Van To" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ These portraits were commissioned by [Kaya Press](https://kaya.com/) for use on 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Ashleigh_Kennedy.png" title="Ashleigh Kennedy" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Ashleigh_Kennedy.svg" title="Ashleigh Kennedy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

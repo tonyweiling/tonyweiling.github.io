@@ -2,7 +2,7 @@
 layout: page
 title: KAYA PRESS
 description: author portraits for press website
-img: assets/img/Kaya-Press-1.gif
+img: assets/img/Kaya-Press-1.png
 importance: 3
 #category: work
 #giscus_comments: false

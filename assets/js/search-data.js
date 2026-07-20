@@ -65,7 +65,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-kaya-press",
           title: 'KAYA PRESS',
-          description: "author portraits for Kaya Press",
+          description: "author portraits for press website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Kaya-Press/";
             },},{id: "projects-nat-brut-magazine",
